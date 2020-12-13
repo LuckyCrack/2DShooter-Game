@@ -1,4 +1,4 @@
-# PocketRocket Mobile Game
+# 2D SPACE-SHOOTER Mobile Game
 *2D Space Shooter Mobile Game published On Google Play Store*
 >[Available on GOOGLE PLAY STORE](https://play.google.com/store/apps/details?id=com.vapps.PocketRocket)
 
