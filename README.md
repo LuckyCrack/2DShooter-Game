@@ -7,9 +7,6 @@
 ![alt text](https://github.com/LuckyCrack/2DShooter-Game/blob/master/img3.png?raw=true)
 ![alt text](https://github.com/LuckyCrack/2DShooter-Game/blob/master/img4.png?raw=true)
 
-## About
-> Android Game Developed in UNITY3D and Adobe Photoshop and Adobe Illustrator were used for Game Assets and Graphics.
-
 ## Language Used
 > C#
 
